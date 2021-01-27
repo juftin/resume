@@ -1,4 +1,4 @@
-# Resume
+# resume
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/juftin/resume/master/resume/web/favicon.png" width="125" height="125"  alt="juftin logo">
